@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8,6 +9,8 @@
 =======
 >>>>>>> 20bd9991549f68e83aa506d89ceb4d205741cc97
 >>>>>>> d44632d (tomcat)
+=======
+>>>>>>> 20bd9991549f68e83aa506d89ceb4d205741cc97
 ## Welcome to Apache Tomcat!
 
 ### What Is It?
@@ -88,6 +91,7 @@ instructions for reporting a bug
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for more info.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -108,3 +112,5 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for more info.
 =======
 >>>>>>> 20bd9991549f68e83aa506d89ceb4d205741cc97
 >>>>>>> d44632d (tomcat)
+=======
+>>>>>>> 20bd9991549f68e83aa506d89ceb4d205741cc97

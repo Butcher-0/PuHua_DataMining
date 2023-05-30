@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> f1ce47f (tomcat)
+=======
+>>>>>>> 20bd9991549f68e83aa506d89ceb4d205741cc97
+>>>>>>> d44632d (tomcat)
+=======
+>>>>>>> 20bd9991549f68e83aa506d89ceb4d205741cc97
+>>>>>>> 85d431c0f361ea47edf1154fdb3aad31239fdf1a
 ## Welcome to Apache Tomcat!
 
 ### What Is It?
@@ -77,3 +93,30 @@ instructions for reporting a bug
 ### Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for more info.
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+# PuHua_DataMining
+## 普华数据挖掘
+
+## 数据隐私数据提取部分
+
+**BERT+CRF**
+
+* BERT产生语言表征信息
+* Linear映射到标签域
+* CRF产生语句隐私数据标签
+>>>>>>> 370fa06 (tomcat)
+>>>>>>> f1ce47f (tomcat)
+=======
+>>>>>>> 20bd9991549f68e83aa506d89ceb4d205741cc97
+>>>>>>> d44632d (tomcat)
+=======
+>>>>>>> 20bd9991549f68e83aa506d89ceb4d205741cc97
+>>>>>>> 85d431c0f361ea47edf1154fdb3aad31239fdf1a
